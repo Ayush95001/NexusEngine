@@ -1,0 +1,8 @@
+.heading{
+    text-align:center;
+    background-color:rgb(16, 0, 43);
+    color:rgb(222, 201, 233);
+    padding: 25px;
+    margin: 10px;
+    border-radius: 5px;
+  }
